@@ -17,7 +17,7 @@ BaseObject *Sidewalk::Build(BaseContainer *bc, BaseDocument *doc)
 	// Calculate the total size of the sidewalk
 	Vector totalSize = Vector(_params.elementSize.x * _params.countX, _params.elementSize.y, _params.elementSize.z * _params.countZ);
 
-	// Random & noise generators
+	// Random generators
 	Random rndElementChoice; // Element selection
 	rndElementChoice.Init(_params.elementRndSeed);
 	
