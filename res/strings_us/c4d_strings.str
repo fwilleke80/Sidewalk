@@ -1,0 +1,15 @@
+// C4D-StringResource
+// Identifier	Text
+
+STRINGTABLE
+{
+  IDS_OSIDEWALK								"Sidewalk";
+  
+	IDS_OBJ_COBBLESTONE_GROUP		"Cobblestone.Group";
+	IDS_OBJ_COBBLESTONE					"Cobblestone";
+	IDS_OBJ_PLATE_GROUP					"Plates.Group";
+	IDS_OBJ_PLATE								"Plate";
+	IDS_OBJ_DIRTPLANE						"Dirt Plane";
+	IDS_OBJ_CURBSTONE_GROUP			"Curbstones.Group";
+	IDS_OBJ_CURBSTONE						"Curbstone";
+}
