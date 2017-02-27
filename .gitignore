@@ -1,0 +1,16 @@
+*.xcworkspacedata
+*.xcuserstate
+*.xcsettings
+*.xcbkptlist
+*.xcscheme
+*.plist
+*.a
+*.dylib
+
+*.cdl64
+*.sdf
+*.ilk
+*.pdb
+*.obj
+*.user
+
