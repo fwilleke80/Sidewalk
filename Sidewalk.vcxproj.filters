@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="source">
+      <UniqueIdentifier>{21895B69-DE91-7035-0000-0000CA90681B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\object">
+      <UniqueIdentifier>{21895B69-DE91-7035-1194-B70568284220}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\lib">
+      <UniqueIdentifier>{a6991240-9042-48af-a322-8eb8baa571a9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\main.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\object\sidewalkobject.cpp">
+      <Filter>source\object</Filter>
+    </ClCompile>
+    <ClCompile Include="source\lib\sidewalk.cpp">
+      <Filter>source\lib</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="source\main.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="source\object\sidewalkdefaults.h">
+      <Filter>source\object</Filter>
+    </ClInclude>
+    <ClInclude Include="source\object\sidewalkobject.h">
+      <Filter>source\object</Filter>
+    </ClInclude>
+    <ClInclude Include="source\lib\sidewalk.h">
+      <Filter>source\lib</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
