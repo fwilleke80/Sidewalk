@@ -7,10 +7,12 @@
 *.a
 *.dylib
 
-*.cdl64
 *.sdf
 *.ilk
 *.pdb
 *.obj
+*.exp
+*.tlog
+*.lastbuildstate
 *.user
-
+*.cdl64
