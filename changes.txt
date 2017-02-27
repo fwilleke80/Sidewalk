@@ -1,0 +1,16 @@
+1.0.6
+- Updated code for R18
+
+1.00.04
+- Added noise height variation for plates
+
+1.00.03
+- Added Curbstones
+- Added Missing Elements Bias
+
+1.00.02 BETA
+- Changed some gui strings
+- Changed gui a bit
+
+1.00.01 BETA
+- Initial version
